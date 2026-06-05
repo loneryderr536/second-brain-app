@@ -1,0 +1,9 @@
+backend/node_modules/
+frontend/node_modules/
+backend/.env
+backend/second-brain.db
+backend/second-brain.db-shm
+backend/second-brain.db-wal
+backend/data/*.bak
+frontend/dist/
+.DS_Store
